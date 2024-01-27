@@ -66,7 +66,7 @@ const EditBooks = () => {
     };
 
     // update a book
-    fetch(`http://localhost:5000/book/${id}`, {
+    fetch(`https://book-store-azjl.onrender.com/book/${id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json",
