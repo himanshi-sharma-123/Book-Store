@@ -55,9 +55,7 @@ and selling books at the best available prices.
 3. Manage Books
    ![image](https://github.com/himanshi-sharma-123/Book-Store/assets/78066781/5cd4910d-b5e1-4cff-b4ca-1fa2d82aac80)
 
-4. Chatbot Interaction
-   ![image](https://github.com/himanshi-sharma-123/Book-Store/assets/78066781/2e66a324-79b7-4e8e-80b7-7d84864ef6d0)
-   
+4. Chatbot Interaction   
    ![image](https://github.com/himanshi-sharma-123/Book-Store/assets/78066781/cf0a7afb-3285-435b-b51f-ec8a9cacf1d5)
 
 ## Live Site
