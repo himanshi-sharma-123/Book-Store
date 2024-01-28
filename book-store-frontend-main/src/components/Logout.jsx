@@ -17,9 +17,9 @@ const Logout = () => {
       .catch((error) => {});
   };
   return (
-    <div className="h-screen bg-teal-100 flex items-center justify-center">
+    <div className="h-screen  bg-teal-100 flex items-center justify-center">
       <h1 className="text-5xl font-bold leading-snug text-black">
-        LOG OUT HERE👉
+        Are you sure, you want to logout?
       </h1>
       <button
         className="bg-red-700 px-8 py-2 text-white rounded"
